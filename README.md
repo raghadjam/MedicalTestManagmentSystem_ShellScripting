@@ -14,8 +14,6 @@ This script is a Medical Test Management System implemented in Shell scripting. 
 8. Delete a Test: Deletes a medical test record.
 9. Exit the Program: Exits the program.
 
-### Test Case Report:
-The script also includes a **Test Case Report**, which ensures that all operations are thoroughly tested. The test cases are defined for all user options (e.g., adding a new record, searching, and validating inputs). These cases validate the correctness of operations, such as ID format checks, date validation, and status verification.
 
 ## Key Features:
 - ID Validation: The system ensures that each medical record has a valid, unique patient ID, following the proper format
